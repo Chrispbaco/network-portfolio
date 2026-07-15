@@ -1,8 +1,9 @@
 # Network Engineering Portfolio
 
-Hands-on network builds with automated verification — Cisco IOS, FRR/containerlab, Packet Tracer, and vendor-cloud evidence labs. Labs are graded by scripted live checks, pasted command output, or structured evidence checks.
+Hands-on networking projects completed through NetForge and published only after a recruiter-readiness gate. Each listed project includes a recorded passing attempt, actual retained verification output, and reproducible or visual artifacts appropriate to its lab platform.
 
-Each project folder contains a full writeup: topology, configuration evidence, before/after validation, and a change-plan/rollback narrative.
+Expected results are labeled separately and are never presented as observed evidence. Learner-attached files and screenshots are identified in each project's evidence package.
 
-| Project | # |
-|---|---|
+| Project | Platform | Completed | Evidence |
+|---|---|---:|---|
+| [First Contact: Getting Around Packet Tracer](./17-first-contact-getting-around-packet/) | packet-tracer | 2026-07-15 | Verified |

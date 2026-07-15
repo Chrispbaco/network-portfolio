@@ -1,0 +1,18 @@
+C:\>ipconfig
+
+FastEthernet0 Connection:(default port)
+
+   Connection-specific DNS Suffix..: 
+   Link-local IPv6 Address.........: FE80::20A:F3FF:FE91:C3E9
+   IPv6 Address....................: ::
+   IPv4 Address....................: 192.168.1.20
+   Subnet Mask.....................: 255.255.255.0
+   Default Gateway.................: ::
+                                     0.0.0.0
+
+Bluetooth Connection:
+
+   Connection-specific DNS Suffix..: 
+   Link-local IPv6 Address.........: ::
+
+[Legacy NetForge record: the original capture reached the former 500-character retention limit.]
