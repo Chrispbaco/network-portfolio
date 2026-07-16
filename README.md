@@ -7,3 +7,4 @@ Expected results are labeled separately and are never presented as observed evid
 | Project | Platform | Completed | Evidence |
 |---|---|---:|---|
 | [First Contact: Getting Around Packet Tracer](./17-first-contact-getting-around-packet/) | packet-tracer | 2026-07-15 | Verified |
+| [Wiring the Office: Cabling & Device Roles](./16-wiring-the-office-cabling-device/) | packet-tracer | 2026-07-16 | Verified |
