@@ -1,0 +1,4 @@
+line con 0
+ password 7 080243401A160912222B1F177B
+ login
+!
