@@ -1,0 +1,13 @@
+C:\>ping 192.168.20.21
+
+Pinging 192.168.20.21 with 32 bytes of data:
+
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.20.21:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+C:\>
