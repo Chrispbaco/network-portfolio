@@ -1,0 +1,22 @@
+Router1#show interfaces GigabitEthernet0/0.10
+GigabitEthernet0/0.10 is up, line protocol is up (connected)
+  Hardware is PQUICC_FEC, address is 0050.0f34.c801 (bia 0050.0f34.c801)
+  Internet address is 192.168.10.1/24
+  MTU 1500 bytes, BW 100000 Kbit, DLY 100 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation 802.1Q Virtual LAN, Vlan ID 10
+  ARP type: ARPA, ARP Timeout 04:00:00, 
+  Last clearing of "show interface" counters never
+
+
+Router1#show interfaces GigabitEthernet0/0.20
+GigabitEthernet0/0.20 is up, line protocol is up (connected)
+  Hardware is PQUICC_FEC, address is 0050.0f34.c801 (bia 0050.0f34.c801)
+  Internet address is 192.168.20.1/24
+  MTU 1500 bytes, BW 100000 Kbit, DLY 100 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation 802.1Q Virtual LAN, Vlan ID 20
+  ARP type: ARPA, ARP Timeout 04:00:00, 
+  Last clearing of "show interface" counters never
+
+Router1#
