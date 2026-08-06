@@ -1,0 +1,4 @@
+interface FastEthernet0/1
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!

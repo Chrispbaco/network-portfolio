@@ -11,3 +11,4 @@ Expected results are labeled separately and are never presented as observed evid
 | [CLI Bootcamp: Locking Down a Bare Switch](./18-cli-bootcamp-locking-down-a/) | packet-tracer | 2026-07-31 | Verified |
 | [VLANs & Trunks: Splitting One Wire Into Many Networks](./21-vlans-trunks-splitting-one-wire/) | packet-tracer | 2026-08-04 | Verified |
 | [Router-on-a-Stick: Routing Between VLANs](./20-router-on-a-stick-routing/) | packet-tracer | 2026-08-05 | Verified |
+| [EtherChannel & STP: Bundling Links, Taming the Root](./19-etherchannel-stp-bundling-links-taming/) | packet-tracer | 2026-08-06 | Verified |

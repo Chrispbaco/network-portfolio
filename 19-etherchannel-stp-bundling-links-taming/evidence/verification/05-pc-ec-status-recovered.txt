@@ -1,0 +1,5 @@
+SW1#show interfaces fastEthernet0/1 status
+Port      Name               Status       Vlan       Duplex  Speed Type
+Fa0/1                        connected    1          a-full  a-100 10/100BaseTX
+
+SW1#
