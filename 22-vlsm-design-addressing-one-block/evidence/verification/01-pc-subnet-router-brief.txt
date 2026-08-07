@@ -1,0 +1,9 @@
+Router1#show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol 
+GigabitEthernet0/0     unassigned      YES unset  up                    up 
+GigabitEthernet0/0.10  192.168.1.1     YES manual up                    up 
+GigabitEthernet0/0.20  192.168.1.65    YES manual up                    up 
+GigabitEthernet0/0.30  192.168.1.97    YES manual up                    up 
+GigabitEthernet0/1     unassigned      YES unset  administratively down down 
+Vlan1                  unassigned      YES unset  administratively down down
+Router1#
