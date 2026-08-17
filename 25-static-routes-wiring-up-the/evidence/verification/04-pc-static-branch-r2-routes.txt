@@ -1,0 +1,5 @@
+Branch-R2#show ip route static
+S    192.168.10.0/24 [1/0] via 10.0.12.1
+S*   0.0.0.0/0 [1/0] via 203.0.113.6
+
+Branch-R2#

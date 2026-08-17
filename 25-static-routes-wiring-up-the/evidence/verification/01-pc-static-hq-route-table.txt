@@ -1,0 +1,7 @@
+HQ-R1#show ip route static
+     192.168.20.0/24 is variably subnetted, 2 subnets, 2 masks
+S       192.168.20.0/24 [1/0] via 10.0.12.2
+S       192.168.20.50/32 [1/0] via 203.0.113.2
+S*   0.0.0.0/0 [1/0] via 203.0.113.2
+
+HQ-R1#

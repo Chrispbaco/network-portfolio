@@ -1,0 +1,8 @@
+HQ-R1#show ip route 192.168.20.50
+Routing entry for 192.168.20.50/32
+Known via "static", distance 1, metric 0
+  Routing Descriptor Blocks:
+  * 203.0.113.2
+      Route metric is 0, traffic share count is 1
+
+HQ-R1#

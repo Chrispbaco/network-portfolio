@@ -14,3 +14,4 @@ Expected results are labeled separately and are never presented as observed evid
 | [EtherChannel & STP: Bundling Links, Taming the Root](./19-etherchannel-stp-bundling-links-taming/) | packet-tracer | 2026-08-06 | Verified |
 | [BOSS: The Regional Office Build-Out](./01-campus-lan-foundation/) | packet-tracer | 2026-08-06 | Verified |
 | [VLSM Design & Addressing: One Block, Four Departments](./22-vlsm-design-addressing-one-block/) | packet-tracer | 2026-08-07 | Verified |
+| [Static Routes: Wiring Up the First Branch Office](./25-static-routes-wiring-up-the/) | packet-tracer | 2026-08-17 | Verified |
